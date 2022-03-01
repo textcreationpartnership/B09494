@@ -1,0 +1,273 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At a general court for Their Majesties colony of the Massachusetts Bay in New-England, sitting at Boston, upon adjournment, December. 22th. 1691. Forasmuch as these coasts have been and still are infested with divers piratical sea rovers and other enemies; whereby sundry depredations, robberies and damages have been done to and committed upon many of the king and Queens Majesties liege subjects, their vessels, goods and estates to the great impoverishing and hurt of the same ...</title>
+            <author>Massachusetts. General Court.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09494</idno>
+            <idno type="STC">Wing M978</idno>
+            <idno type="STC">ESTC W344</idno>
+            <idno type="EEBO-CITATION">69648750</idno>
+            <idno type="OCLC">ocm 69648750</idno>
+            <idno type="VID">184986</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09494)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184986)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2883:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At a general court for Their Majesties colony of the Massachusetts Bay in New-England, sitting at Boston, upon adjournment, December. 22th. 1691. Forasmuch as these coasts have been and still are infested with divers piratical sea rovers and other enemies; whereby sundry depredations, robberies and damages have been done to and committed upon many of the king and Queens Majesties liege subjects, their vessels, goods and estates to the great impoverishing and hurt of the same ...</title>
+                  <author>Massachusetts. General Court.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Boston :</pubPlace>
+                  <date>1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: "Isaac Addington, Secr."</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>"Printed and published by order of the court."</note>
+                  <note>Reproduction of original in: Massachusetts Historical Society Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary --  II, --  Queen of England, 1662-1694.</term>
+               <term>William --  III, --  King of England, 1650-1702.</term>
+               <term>Tariff --  Law and legislation --  Massachusetts --  Early works to 1800.</term>
+               <term>Huguenots --  Massachusetts --  Early works to 1800.</term>
+               <term>Massachusetts --  History --  Colonial period, ca. 1600-1775.</term>
+               <term>Broadsides --  Massachusetts --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:184986:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <figDesc>woodcut of Massachusetts Bay colonial seal circa 1691</figDesc>
+                  <head>
+                     <g ref="char:cross">✚</g> SIGILLVM: GVB: ET: SOCIET: DE: MATTACHVSETS: BAY: IN: NOVA: ANGLIA</head>
+               </figure> AT A GENERAL COURT For Their MAJESTIES Colony of the Maſſachuſetts BAY in NEW-ENGLAND, Sitting at BOSTON, upon Adjournment, <hi>December.</hi> 22th. 1691.</head>
+            <p>FOraſmuch as theſe Coaſts have been and ſtill are infeſted with divers Piratical Sea Rovers and other Enemies; whereby Sundry Depredations, Robberies and Damages have been done to and Committed upon many of the KING and QUEENS Majeſties Liege Subjects, their Veſſels, Goods and Eſtates to the great Impoveriſhing and hurt of the ſame.</p>
+            <p>For the Guarding and Defending of the Seas and Coaſts againſt all Perſons intending, or that ſhall intend the Diſturbance of The<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Majeſties Subjects and the inter courſe of Trade: And for <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he better Defraying of the Neceſſary Expences thereof, which cannot otherwiſe be Eff<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cted.</p>
+            <p>This Court doth Enact, and be it Enacted by the Authority thereof, That to the In<g ref="char:EOLhyphen"/>tent aforeſaid, the ſeveral Duties and impoſitions hereafter m<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntioned, on all Goods and Commodities coming in and going out of This their Majeſties Colony, and on all Ships and other Deck Veſſels, coming in and going out of ſaid Colony, be duly Collected and Paid from the <hi>Fifteenth</hi> day of <hi>J<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>uary</hi> nex<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, to the Tenth Day of <hi>May</hi> next enſueing, which will be in the Year of our LORD One Thouſand Six Hundred Ninety and Two.</p>
+            <p>That is to ſay,</p>
+            <p>On Goods and Commodities coming into this Colony.</p>
+            <list>
+               <head>Inward</head>
+               <item>For every Pipe of <hi>Wine,</hi> five Shillings <hi>and ſo Proportionably for ſmaller Caske.</hi>
+               </item>
+               <item>For every Hogſhead of <hi>Rhum,</hi> five Shillings <hi>and ſo Proportionably for ſmaller Caske.</hi>
+               </item>
+               <item>For every Hogſhead of <hi>Sugar,</hi> twelve Pence.</item>
+               <item>For every Hogſhead of <hi>Molaſſes,</hi> ſix Pence.</item>
+               <item>For every Hogſhead of <hi>Tobacco,</hi> ſix Pence.</item>
+               <item>For every Ton of <hi>Logwood,</hi> twelve Pence.</item>
+               <item>For every Barrel of <hi>T<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aine Oyle,</hi> three Pence.</item>
+               <item>For every Barrel of <hi>Pork,</hi> three Pence.</item>
+               <item>For every Barrel of <hi>Beife,</hi> one Penny half Penny.</item>
+               <item>For every Hundred Buſhells of <hi>Peaſe,</hi> or <hi>Wheat,</hi> two Shillings. <hi>&amp; ſo Pro<g ref="char:EOLhyphen"/>portionably for l<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſer Q<gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>t<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s.</hi>
+               </item>
+               <item>For every Hundred Buſhells of <hi>Indian Corn, Rye,</hi> or <hi>Barley,</hi> one Shilling <hi>&amp; ſo Pro<g ref="char:EOLhyphen"/>portionably for l ſſer Q<gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>t<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s.</hi>
+               </item>
+               <item>For every Hogſhead of <hi>Salt,</hi> two Pence. <hi>&amp; ſo Pro<g ref="char:EOLhyphen"/>portionably for l<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſer Q<gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>t<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s.</hi>
+               </item>
+               <item>And for all other Commodities, <hi>Goods, Wares, Silver, B<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>llion</hi> and <hi>Money,</hi> the ſum of Ten Shillings for every Hundred Pounds V<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lue.</item>
+               <item>For every <hi>Ship</hi> or <hi>Deck Veſſell</hi> coming in, the ſum of ſix Pence <hi>Per</hi> Ton.</item>
+            </list>
+            <pb facs="tcp:184986:2" rendition="simple:additions"/>
+            <p>On Goods and Commodities going out of this Colony:</p>
+            <list>
+               <head>Outward.</head>
+               <item>For every Hundred Quintals of Merchantable <hi>Fiſh,</hi> the ſum of ſix Shillings &amp; eight Pence</item>
+               <item>For every Hogſhead of <hi>Fiſh,</hi> three Pence,</item>
+               <item>For every Barrel of <hi>Mackarel,</hi> one Penny.</item>
+               <item>For every Thouſand feet of <hi>Deal board<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, Planke,</hi> or <hi>Joyce,</hi> three Pence.</item>
+               <item>For every Thouſand of Pipe, Hogſhead or Barrel <hi>Staves,</hi> three Pence.</item>
+               <item>For every Thouſand of <hi>Hoopes,</hi> four Pence.</item>
+               <item>For every Thouſand of <hi>Shingles,</hi> one Penny.</item>
+               <item>For every Barrel of <hi>Strong Beer</hi> or <hi>Sider,</hi> one Penny.</item>
+               <item>For every Hundred Pounds Value in <hi>Peltry,</hi> the ſum of Ten Shillings.</item>
+               <item>For every <hi>Ship</hi> or other <hi>Deck Veſſell,</hi> going out, the ſum of ſix Pence <hi>Per.</hi> Ton.</item>
+            </list>
+            <p>And be it further Enacted by the Authority aforeſaid, That if any Goods or Merchandiſe whatſoever, whereof the Duties and Impoſitions aforeſaid, are or ſhall be Due, be brought into any Port, Place or Creek of this Colony, and Unladen out of any Ship, or other Veſſel; Or if any be put on Board any Ship or other Veſſel for Tran<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>portation; the ſaid Duties and Impoſitions due for the ſame, not being paid in Mony, or lawfully Tendered to the Collector or Collectors thereof, according to the true meaning of this Act, from and after the <hi>Fifteenth</hi> day of <hi>January</hi> aforeſaid: That then all ſuch Goods and Merchandiſes ſhall be forfeited, one M<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ety <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the value thereof, unto Their Majeſties, for the uſe aforeſaid; and the other Moiety to him or them that ſhall Seize or inform and Sue for the ſame.</p>
+            <p>And if an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Maſter or Commander of any Ship, or other Deck Veſſel Arriving here, from other Parts, do break Bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k, or Unlade any part of his Lading before the pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ment of ſix-pence in Money <hi>Per</hi> Ton for his Ship or Veſſel; Or if any Maſter or Commander of any Ship or other Deck Veſſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, do take in any Lading, before the pay<g ref="char:EOLhyphen"/>men<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of ſix p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Mony <hi>Per</hi> Ton for his Ship or Veſſel, ſuch Maſter or Commander ſo Offend<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> contrary to this Act, ſhall pay fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſhillings <hi>Per</hi> Ton for what his Ship or Veſſel ſhall meaſure; to be Recovered of ſuch Maſter or Commander, One half for Their Majeſties; to the uſe aforeſaid, and the other half to the Receiver of the Duties aforeſaid, or to him that ſhall Inform and Sue for the ſame.</p>
+            <p>And for the more effectual Collecting and Receiving of the Duties and Impoſitions before mentioned, And that the Mony ariſing upon ſaid Duties and Impoſitions may be Appropriated to and Employed for the Intents and Uſes before mentioned, and no o<g ref="char:EOLhyphen"/>ther whatſoever; This Court doth Nominate and Impower Mr. <hi>Eliakim Hutchinſon,</hi> Mr. <hi>John Foſter,</hi> Mr. <hi>Nathanael Oliver,</hi> Mr. <hi>John Ayre,</hi> and Mr. <hi>Andrew Belcher:</hi> (or ſuch others as the Governour and Council ſhall Appoint) to be a Committee o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Commiſſioners to manage the ſame; who are alſo impowred to appoint Co<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ectors and Receivers under them to Collect and Receive all the Moneys which ſhall a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſe and become due upon any Goods, Wares, Merchandiſe and Tonage of Veſſels by vertue of this Act, and to diſpoſe of the ſame for the ſaid Uſes from time to time, according to the O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ders they ſhall receive from the Governour and Council.</p>
+            <div type="order">
+               <p>THIS Court being Senſible, That altho' ſeveral <hi>French Proteſtants,</hi> who fled from Perſecution, coming lately over Sea into this Country, were orderly Entertained and Succoured here Yet ſince that, many others of a contrary Religion and Intereſt have been brought hither; and ſome have obtruded themſelves; whereof freq<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent Compla nts have been made.</p>
+               <p>And it being a time of War between the two Crowns of <hi>England</hi> and <hi>France,</hi> and the Publick Safety Endangered by Suffering ſuch a mixt Company among us, eſpecially in and about the Sea Ports and Frontier Towns.</p>
+               <p>For Prevention thereof,</p>
+               <p>It is Ordered, That from and after the laſt day of <hi>January</hi> next Enſuing, none of the <hi>French</hi> Nation be permitted to take up their Reſ dence, or be in any of the Sea-Port, or Frontier Towns within this Government, but ſuch as ſhall be Li<g ref="char:EOLhyphen"/>cenſed by the Governour and Council.</p>
+               <p>Nor ſhall any of ſaid Nation open Shop, or Exerciſe any Manual Trade in any of ſaid Towns, without the Approbation of the Select Men of ſuch Town firſt orderly obtained. On pain of Impriſonment, by Warrant from any Magiſtrate or Commiſſio<g ref="char:EOLhyphen"/>ner; there to remain until Releaſed by Order of the Governour and Council.</p>
+               <p>And the Select-Men and Conſtab<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es in ſaid Towns are appointed to have Inſpection of the due Obſervance of this Order.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="order_to_print">
+            <p>Printed and Publiſhed by Order of the Court.</p>
+            <closer>
+               <signed>
+                  <hi>Iſaac Addington,</hi> Sec<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
